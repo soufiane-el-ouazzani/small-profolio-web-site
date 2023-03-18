@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: #fff;
+    border-color: black;
+    margin-top: 100px;
+}
+
+.header {
+    background-color: #03a9f4;
+    margin: 0;
+    
+    width: 100%;
+    height: 292px;
+}
+
+p {
+    text-align: center;
+    padding: 70px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: cursive;
+}
